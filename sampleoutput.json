@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Jess Weatherbed",
+        "title": "X is blocking links to Signal - The Verge",
+        "description": "X users are currently unable to post links to Signal.me, which allow people to quickly and securely send direct messages to Signal users.",
+        "url": "https://www.theverge.com/news/613997/x-blocks-signal-me-links-errors",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK160_X_TWITTER_2__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-02-17T13:56:26Z",
+        "content": "Users attempting to add their Signal.me URL to posts, DMs, and bio descriptions are being met with error messages.\r\nUsers attempting to add their Signal.me URL to posts, DMs, and bio descriptions are… [+2131 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Christopher Lamb, Antonia Mortensen, Sharon Braithwaite",
+        "title": "Pope Francis’ hospital treatment changed to fight ‘complex clinical’ condition, Vatican says - CNN",
+        "description": "Pope Francis has a “polymicrobial infection” of his respiratory tract that will require his hospital treatment to be changed, the Vatican said Monday, with tests indicating a “complex clinical picture” for one of the oldest popes in the church’s history.",
+        "url": "https://www.cnn.com/2025/02/17/europe/pope-francis-polymicrobial-infection-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2196508179.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-02-17T13:23:00Z",
+        "content": "Pope Francis has a polymicrobial infection of his respiratory tract that will require his hospital treatment to be changed, the Vatican said Monday, with tests indicating a complex clinical picture f… [+1937 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Ganesh Rao, Chloe Taylor, Holly Ellyatt",
+        "title": "European defense stocks lift markets higher; Best day for BAE Systems since 2022 - CNBC",
+        "description": "European stocks moved higher Monday as a number of defense stocks soared.",
+        "url": "https://www.cnbc.com/2025/02/17/european-markets-live-updates-stocks-news-data-and-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108103225-1739785537969-gettyimages-2198665651-AFP_36XR6PZ.jpeg?v=1739785547&w=1920&h=1080",
+        "publishedAt": "2025-02-17T12:54:00Z",
+        "content": "British employers plan to reduce their headcount and make redundancies in 2025 due to the impending increases to National Insurance Contributions (NIC) and increasing National Minimum Wage, a new CIP… [+1515 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Ben Noll",
+        "title": "Where some of the coldest air of the season will hit in the U.S. this week - The Washington Post",
+        "description": "Subzero temperatures, snow and ice will affect millions of people across the United States this week.",
+        "url": "https://www.washingtonpost.com/weather/2025/02/17/polar-vortex-subzero-cold-forecast-snow-ice-storm/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2SYEP3BQG5CVNPXIGINWL5LMRA.png&w=1440",
+        "publishedAt": "2025-02-17T11:55:23Z",
+        "content": "A lobe of the polar vortex, a ring of freezing air typically found near the North Pole, will once again move into the central and eastern states this week, bringing some of the coldest air of the win… [+6433 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "RAF CASERT, SYLVIE CORBET",
+        "title": "European leaders regroup in Paris for strategy huddle after Trump diplomatic blitz on Ukraine - The Associated Press",
+        "description": "French President Emmanuel Macron has called leaders from key European Union nations and the United Kingdom to his ornate Elysee Palace for an emergency meeting Monday. He wants to discuss how to deal with the Trump administration and step up plans to increase…",
+        "url": "https://apnews.com/article/eu-europe-ukraine-nato-security-summit-trump-060c8661c59f8f75b96711d3889ce559",
+        "urlToImage": "https://dims.apnews.com/dims4/default/0326f74/2147483647/strip/true/crop/2998x1686+0+109/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff1%2F89%2F01bca9984397477a3b194409ba48%2F1d86402c1c3b4832bd453699e7e38230",
+        "publishedAt": "2025-02-17T11:50:00Z",
+        "content": "PARIS (AP) French President Emmanuel Macron called leaders from key European Union nations and the United Kingdom to his ornate Elysee Palace on Monday for an emergency meeting on how to react to the… [+5092 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Elon Musk's DOGE asks for access to IRS taxpayer data, sources say - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/Politics/elon-musks-doge-asks-access-irs-taxpayer-data/story?id\\\\u003d118883475",
+        "urlToImage": null,
+        "publishedAt": "2025-02-17T11:45:53Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Taylor Nicioli",
+        "title": "Paleontologists uncover a nearly complete skull of a 30 million-year-old apex carnivore in Egypt - CNN",
+        "description": "A nearly complete skull fossil found in Egypt has revealed a new species of Hyaenodonta, an apex carnivore that mysteriously went extinct about 25 million years ago.",
+        "url": "https://www.cnn.com/2025/02/17/science/hyaenodonta-fossil-discovery-bastetodon-skull/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shorouq-al-ashqar-the-lead-author-with-the-bastetodon-syrtos-skull-and-a-bastet-statue-crop.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-02-17T11:41:00Z",
+        "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nWith sharp catlike teeth and a doglike body, ancient c… [+5733 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": null,
+        "title": "Actor Kim Sae-ron, 24, found dead at home by her friend in Seoul - CBS News",
+        "description": "Kim Sae-ron, an award-winning actor whose career was derailed after a 2022 DUI accident, was found dead in her house, police said.",
+        "url": "https://www.cbsnews.com/news/kim-sae-ron-dies-south-korea-actor-found-dead-age-24/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/17/7ab12b19-6b87-49c7-94b4-7430438327ad/thumbnail/1200x630/1025a5a02b947e6491b36f66c5eb7e74/gettyimages-1170430937.jpg?v=f303dc12868a012283443d8b9123e5fe",
+        "publishedAt": "2025-02-17T11:33:00Z",
+        "content": "Kim Sae-ron, an award-winning South Korean actor whose career was derailed after a 2022 drunk-driving accident, was found dead in her house in Seoul on Sunday, police said. She was 24.\r\n\"She was foun… [+1454 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Why Saudi Arabia is the venue of choice for Trump talks on Ukraine - BBC.com",
+        "description": "The kingdom has gone from pariah to potential peacemaker in recent years.",
+        "url": "https://www.bbc.com/news/articles/cp9x97yvjp4o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5785/live/acf860f0-ed20-11ef-bd1b-d536627785f2.jpg",
+        "publishedAt": "2025-02-17T11:32:17Z",
+        "content": "The choice by the Trump administration of Saudi Arabia as the location for key talks on Ukraine underscores how far the Kingdom has come diplomatically from the near pariah state it became after the … [+2289 chars]"
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": null,
+        "title": "Why China Investors Finally Believe Xi’s Tech Crackdown Is Over - Bloomberg",
+        "description": "Even before President Xi Jinping met with leading Chinese entrepreneurs on Feb. 17, investors began piling into technology shares, betting that a years-long crackdown on the private sector was at an end.",
+        "url": "https://www.bloomberg.com/news/articles/2025-02-17/china-investors-are-starting-to-believe-xi-tech-crackdown-is-over",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idrEotTfDopM/v2/1200x800.jpg",
+        "publishedAt": "2025-02-17T11:19:51Z",
+        "content": "Even before President Xi Jinping met with leading Chinese entrepreneurs on Feb. 17, investors began piling into technology shares, betting that a years-long crackdown on the private sector was at an … [+400 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "CHINEDU ASADU, PASCAL CINAMULA, JANVIER BARHAHIGA",
+        "title": "Rwanda-backed M23 rebels occupy a 2nd major city in Congo’s mineral-rich east - The Associated Press",
+        "description": "Congo’s government says Rwanda-backed rebels have occupied a second major city in mineral-rich eastern Congo. The M23 rebels confirmed late Sunday that they were in the city to restore order after it was abandoned by Congolese forces. The rebels entered Bukav…",
+        "url": "https://apnews.com/article/congo-m23-rebels-bukavu-southkivu-14527185304baa9a5e40eff4cfccba85",
+        "urlToImage": "https://dims.apnews.com/dims4/default/355954b/2147483647/strip/true/crop/2156x1213+0+262/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2Faa%2F11b46b6b81cbcc7e7f583a78a48f%2Fbc57a800b91c42819758abad2ce5ff5b",
+        "publishedAt": "2025-02-17T11:16:00Z",
+        "content": "BUKAVU, Congo (AP) Rwanda-backed rebels have occupied a second major city in mineral-rich eastern Congo, the government said Sunday, as M23 rebels confirmed they were in the city to restore order aft… [+4480 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "Oriana Pawlyk",
+        "title": "Musk’s SpaceX team visiting key FAA command center — despite past frictions - POLITICO",
+        "description": "Transportation Secretary Sean Duffy said he hopes \"the brightest minds in America\" will help improve the nation's air traffic system.",
+        "url": "https://www.politico.com/news/2025/02/17/elon-musk-spacex-faa-visit-00204577",
+        "urlToImage": "https://static.politico.com/68/2c/b8864a5e460bb13d32d49114899f/aptopix-election-2024-trump-09224.jpg",
+        "publishedAt": "2025-02-17T11:05:28Z",
+        "content": "The Warrenton, Virginia, facility is considered a nerve center\r\n for the FAA, dictating plans for air traffic, space launches and monitoring for weather, among other crucial roles. Mondays visit come… [+1539 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "Jamie Chisholm",
+        "title": "The S&P 500’s race to a new record may tip it into a bigger pullback. Here’s why. - MarketWatch",
+        "description": "BTIG strategist says weak seasonal factors are looming.",
+        "url": "https://www.marketwatch.com/story/the-s-p-500s-race-to-a-new-record-may-tip-it-into-a-bigger-pullback-heres-why-c81dd478",
+        "urlToImage": "https://images.mktw.net/im-72283983/social",
+        "publishedAt": "2025-02-17T11:01:00Z",
+        "content": "When U.S. investors return from the long weekend they will be faced with a stock market looking well-positioned to break out to fresh record highs.\r\nBut any such move into virgin territory may preced… [+58 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "China condemns US after line on 'Taiwan independence' cut from site - BBC.com",
+        "description": "Beijing has slammed the US State Department, calling for it to \"immediately correct its mistakes\".",
+        "url": "https://www.bbc.com/news/articles/clyzy300vlzo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6f4b/live/62a2ea60-ed08-11ef-ad42-e5373314f1ac.jpg",
+        "publishedAt": "2025-02-17T09:19:30Z",
+        "content": "The US State Department has dropped a statement from its website which stated that Washington does not support Taiwan's independence - a move which has sparked anger in China. \r\nChina said the revisi… [+2049 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "HuffPost"
+        },
+        "author": "Lee Moran",
+        "title": "Donald Trump’s Daytona 500 Spectacle Fuels Accusations Of Double Standards - HuffPost",
+        "description": "Critics tore into the stunt as another hypocrisy.",
+        "url": "https://www.huffpost.com/entry/donald-trump-daytona-double-standard_n_67b2e250e4b0e4f05163d66f",
+        "urlToImage": "https://img.huffingtonpost.com/asset/67b2e9f019000025002aa84c.jpeg?ops=1200_630",
+        "publishedAt": "2025-02-17T07:53:23Z",
+        "content": "Donald Trumps spin Sunday on the Daytona International Speedway track in the presidential limousine ahead of the Daytona 500 opening event of the Nascar series drew accusations of hypocrisy and doubl… [+2022 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "An Indian court sentences a man to life in prison for raping and murdering an Irish backpacker - ABC News",
+        "description": "A court in India’s western Goa state has sentenced a 31-year-old man to life in prison for raping and murdering an Irish woman at a popular tourist resort nearly eight years ago",
+        "url": "https://abcnews.go.com/International/wireStory/indian-court-sentences-man-life-prison-raping-murdering-118886425",
+        "urlToImage": "https://i.abcnewsfe.com/a/78bc5992-6963-4c1a-80b0-bb5cbd2dde8b/wirestory_c510687dd25e7202d2fb85edd9ae0a94_16x9.jpg?w=1600",
+        "publishedAt": "2025-02-17T07:19:12Z",
+        "content": "NEW DELHI -- A court in India's western Goa state on Monday sentenced a 31-year-old man to life in prison for raping and murdering an Irish woman at a popular tourist resort nearly eight years ago.\r\n… [+868 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "Carly Cassella",
+        "title": "Intense Flu Surge Gripping The US Is The Worst in Years, CDC Says - ScienceAlert",
+        "description": "The US is dealing with an unusually intense influenza outbreak that has infected between 29 and 51 million people and hospitalized up to 820,000 since October.",
+        "url": "https://www.sciencealert.com/intense-flu-surge-gripping-the-us-is-the-worst-in-years-cdc-says",
+        "urlToImage": "https://www.sciencealert.com/images/2025/02/FluVaccinesUSA.jpg",
+        "publishedAt": "2025-02-17T06:05:31Z",
+        "content": "The US is dealing with an unusually intense influenza outbreak that has infected between 29 and 51 million people and hospitalized up to 820,000 since October.\r\nIt's one of the worst flu seasons in 1… [+4982 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WKRC TV Cincinnati"
+        },
+        "author": "WKRC/CBS Newspath",
+        "title": "Kentucky timelapse video shows rising floodwaters during torrential rains - WKRC TV Cincinnati",
+        "description": "Heavy rains and dangerous flooding swept through the Southeast U.S. on Saturday, submerging cars and buildings in Kentucky.",
+        "url": "https://local12.com/news/nation-world/kentucky-timelapse-video-shows-rising-floodwaters-torrential-rains-nine-people-died-river-blocked-closed-roads",
+        "urlToImage": "https://local12.com/resources/media2/16x9/1321/986/0x33/90/123de869-3348-402d-a221-0076e0786d2d-1.PNG",
+        "publishedAt": "2025-02-17T04:23:11Z",
+        "content": "HAZARD, Ky. (WKRC/CBS Newspath) - Heavy rains and dangerous flooding swept through the Southeast U.S. on Saturday, submerging cars and buildings in Kentucky and causing mudslides that blocked roads i… [+499 chars]"
+      }
+    ]
+  }

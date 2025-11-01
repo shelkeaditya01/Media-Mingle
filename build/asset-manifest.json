@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https//shelkeaditya01.github.io/Mediareact/static/css/main.dc4d6ff2.css",
-    "main.js": "/https//shelkeaditya01.github.io/Mediareact/static/js/main.5c62da83.js",
-    "static/js/453.b2157c12.chunk.js": "/https//shelkeaditya01.github.io/Mediareact/static/js/453.b2157c12.chunk.js",
-    "static/media/loading.gif": "/https//shelkeaditya01.github.io/Mediareact/static/media/loading.ccaed95b8a40a9bc24b5.gif",
-    "index.html": "/https//shelkeaditya01.github.io/Mediareact/index.html",
-    "main.dc4d6ff2.css.map": "/https//shelkeaditya01.github.io/Mediareact/static/css/main.dc4d6ff2.css.map",
-    "main.5c62da83.js.map": "/https//shelkeaditya01.github.io/Mediareact/static/js/main.5c62da83.js.map",
-    "453.b2157c12.chunk.js.map": "/https//shelkeaditya01.github.io/Mediareact/static/js/453.b2157c12.chunk.js.map"
+    "main.css": "/static/css/main.dc4d6ff2.css",
+    "main.js": "/static/js/main.9ce4d457.js",
+    "static/js/453.b2157c12.chunk.js": "/static/js/453.b2157c12.chunk.js",
+    "static/media/loading.gif": "/static/media/loading.ccaed95b8a40a9bc24b5.gif",
+    "index.html": "/index.html",
+    "main.dc4d6ff2.css.map": "/static/css/main.dc4d6ff2.css.map",
+    "main.9ce4d457.js.map": "/static/js/main.9ce4d457.js.map",
+    "453.b2157c12.chunk.js.map": "/static/js/453.b2157c12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.5c62da83.js"
+    "static/js/main.9ce4d457.js"
   ]
 }

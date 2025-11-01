@@ -1,8 +1,7 @@
 {
   "name": "newsapp",
   "version": "0.1.0",
-  "homepage": "https//shelkeaditya01.github.io/Media-react",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
